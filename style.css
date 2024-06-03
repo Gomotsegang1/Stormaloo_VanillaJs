@@ -1,0 +1,12 @@
+body {
+  background-color: #f9f7fd;
+  font-family: "Roboto", sans-serif;
+}
+
+.app {
+  background-color: white;
+  max-width: 600px;
+  padding: 30px;
+  border-radius: 16px;
+  margin: 30px auto;
+}
